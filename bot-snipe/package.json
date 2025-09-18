@@ -1,0 +1,21 @@
+{
+  "name": "bot-snipe",
+  "version": "1.0.0",
+  "description": "Discord bot với tính năng snipe tin nhắn bị xóa và chỉnh sửa",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "snipe",
+    "discord.js"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
