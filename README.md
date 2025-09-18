@@ -84,9 +84,3 @@ Khi thêm bot vào server, đảm bảo bot có các quyền sau:
 ## 📜 Giấy phép
 
 Dự án này được phân phối dưới giấy phép MIT. Xem file `LICENSE` để biết thêm thông tin.
-
-## 📞 Liên hệ
-
-Tên của bạn - [@twitter_handle](https://twitter.com/twitter_handle) - email@example.com
-
-Link dự án: [https://github.com/yourusername/discord-snipe-bot](https://github.com/yourusername/discord-snipe-bot)
