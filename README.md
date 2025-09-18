@@ -11,9 +11,6 @@
 
 Bot Discord với tính năng "snipe" tin nhắn: lưu lại và hiển thị tin nhắn bị xóa hoặc chỉnh sửa trong server.
 
-<div align="center">
-  <img src="https://i.imgur.com/XYZ123.png" alt="Bot Preview" width="600">
-</div>
 
 ## 📋 Tính năng
 
