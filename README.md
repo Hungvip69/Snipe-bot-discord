@@ -30,8 +30,8 @@ Bot Discord với tính năng "snipe" tin nhắn: lưu lại và hiển thị ti
 
 1. Clone repository này về máy của bạn
    ```bash
-   git clone https://github.com/yourusername/discord-snipe-bot.git
-   cd discord-snipe-bot
+   git clone https://github.com/Hungvip69/Snipe-bot-discord.git
+   cd Snipe-bot-discord
    ```
 
 2. Cài đặt các dependencies
